@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    margin: 20px;
+}
+form {
+    margin: 10px 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+}
+.alert {
+    color: red;
+}
